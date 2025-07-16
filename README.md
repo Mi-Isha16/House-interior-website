@@ -29,10 +29,6 @@ A multi-page static website created using pure HTML with internal CSS. It showca
 ├── website preview.png
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Use
