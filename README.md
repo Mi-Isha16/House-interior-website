@@ -40,7 +40,8 @@ A multi-page static website created using pure HTML with internal CSS. It showca
 ---
 ## 📷 Preview
 
-![Website Screenshot](website preview.png)
+
+![Website Screenshot](website%20preview.png)
 
 
 ## 👩‍💻 Author
